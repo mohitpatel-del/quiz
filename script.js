@@ -1,6 +1,6 @@
 const quizData = [
     {
-        question: "What is the most used programming language in 2019?",
+        question: "What is the most used programming language in 2022?",
         a: "Java",
         b: "C",
         c: "Python",
@@ -10,7 +10,7 @@ const quizData = [
     {
         question: "Who is the President of US?",
         a: "Florin Pop",
-        b: "Donald Trump",
+        b: "Joe Biden",
         c: "Ivan Saldano",
         d: "Mihai Andrei",
         correct: "b",
@@ -28,6 +28,14 @@ const quizData = [
         a: "1996",
         b: "1995",
         c: "1994",
+        d: "none of the above",
+        correct: "b",
+    },
+    {
+        question: "Who is known as the father of computer?",
+        a: "Alan Turning",
+        b: "Charles Babbage",
+        c: "Ben Hellings",
         d: "none of the above",
         correct: "b",
     },
